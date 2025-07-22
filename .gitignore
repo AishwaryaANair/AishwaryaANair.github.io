@@ -2,3 +2,4 @@ node_modules
 Resume.pdf
 *.docx
 *.zip
+._*
